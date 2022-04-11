@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miskovic97
-- 👀 I’m interested in creating web aplications
+- 👀 I’m interested in creating web applications
 - 🌱 I’m currently learning Java and Srping
 - 💞️ I’m looking to collaborate on simple projects that i can add to my resume and also some complex one that can have real life aplication
 - 📫 How to reach me send me a message
